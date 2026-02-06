@@ -1,11 +1,8 @@
-# Maven
+node_modules/
 target/
-
-# Eclipse
-.classpath
-.project
-.settings/
-
-# IntelliJ IDEA
+bin/
+dist/
+*.log
+.env
 .idea/
-*.iml
+.vscode/
